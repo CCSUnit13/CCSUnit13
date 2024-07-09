@@ -1,4 +1,7 @@
-## Hi there 👋
+# 🪐 about me 
+
+
+newbie :melting_face:
 
 <!--
 **CCSUnit13/CCSUnit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
